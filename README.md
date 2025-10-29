@@ -61,5 +61,16 @@ npm install
 
 # Start development server
 npm run dev
+```
 
-![alt text](image.png)
+### Frontend Setup
+```bash
+# Navigate to backend directory
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
